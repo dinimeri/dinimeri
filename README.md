@@ -2,7 +2,7 @@
 
 - 🔭 I’m a student majoring in Informatics Engineering
 - 🌱 Currently learning Machine Learning in Bangkit 2023
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/dinimeri/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dinimeri/)
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
